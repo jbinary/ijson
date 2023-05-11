@@ -17,11 +17,11 @@ def get_ijson_version():
     return _globals['__version__']
 
 setupArgs = dict(
-    name = 'ijson',
+    name = 'ijson-bigint',
     version = get_ijson_version(),
     author = 'Rodrigo Tobar, Ivan Sagalaev',
     author_email = 'rtobar@icrar.org, maniac@softwaremaniacs.org',
-    url = 'https://github.com/ICRAR/ijson',
+    url = 'https://github.com/jbinary/ijson',
     license = 'BSD',
     description = 'Iterative JSON parser with standard Python iterator interfaces',
     long_description = open('README.rst').read(),
