@@ -1,1 +1,1 @@
-__version__ = '3.2.0.bigint-fix'
+__version__ = '3.2.0.post1'
