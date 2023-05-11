@@ -19,7 +19,7 @@ def get_ijson_version():
 setupArgs = dict(
     name = 'ijson-bigint',
     version = get_ijson_version(),
-    author = 'Rodrigo Tobar, Ivan Sagalaev',
+    author = 'Rodrigo Tobar, Ivan Sagalaev, Sergey Dobrov',
     author_email = 'rtobar@icrar.org, maniac@softwaremaniacs.org',
     url = 'https://github.com/jbinary/ijson',
     license = 'BSD',
